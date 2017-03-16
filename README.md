@@ -1,6 +1,6 @@
-# react-webpack-express
+#西邮创新创业网站
 
-react网站多页面的基本框架
+下载后请依次执行以下命令
 
 npm install
 
